@@ -16,7 +16,6 @@
         <!--        Toekennen van sleutelwoorden-->
         <meta name="keywords" content="">
         <!--        het html bestandje verbinden met het css bestandje-->
-
         <link href="css/style.css" type="text/css" rel="stylesheet">
         <title>
             Template

@@ -44,6 +44,19 @@
             </ul>
         </li>
     </ul>
+    <ul>
+        <li>
+            Hoofdstuk 2
+            <ul>
+                <li>
+                    <a href="">Opdracht 2.1</a>
+                </li>
+                <li>
+                    <a href="">Opdracht 2.2</a>
+                </li>
+            </ul>
+        </li>
+    </ul>
 </aside>
 <main id="wrapper">
     <h2>
