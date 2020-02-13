@@ -33,55 +33,55 @@
                 <li>Hoofdstuk 2
                     <ul>
                         <li>
-                            <a href="Hoofdstuk2/opdracht2.1.php">Opdracht 2.1</a>
+                            <a href="Hoofdstuk%202/Opdracht%202.1/opdracht2.1.php"">Opdracht 2.1</a>
                         </li>
                         <li>
-                            <a href="Hoofdstuk2/opdracht2.2.php">Opdracht 2.2</a>
+                            <a href="Hoofdstuk%202/Opdracht%202.2/opdracht2.2.php">Opdracht 2.2</a>
                         </li>
                     </ul>
                 </li>
                 <li>Hoofdstuk 3
                     <ul>
                         <li>
-                            <a href="Hoofdstuk3/opdracht3.1.php">Opdracht 3.1</a>
+                            <a href="Hoofdstuk%203/Opdracht%203.1/opdracht3.1.php">Opdracht 3.1</a>
                         </li>
                         <li>
-                            <a href="Hoofdstuk3/opdracht3.2.php">Opdracht 3.2</a>
+                            <a href="Hoofdstuk%203/Opdracht%203.2/opdracht3.2.php">Opdracht 3.2</a>
                         </li>
                         <li>
-                            <a href="Hoofdstuk3/opdracht3.3.php">Opdracht 3.3</a>
+                            <a href="Hoofdstuk%203/Opdracht%203.3/opdracht3.3.php">Opdracht 3.3</a>
                         </li>
                     </ul>
                 </li>
                 <li>Hoofdstuk 4
                     <ul>
                         <li>
-                            <a href="Hoofdstuk4/opdracht4.1.php">Opdracht 4.1</a>
+                            <a href="Hoofdstuk%204/Opdracht%204.1/opdracht4.1.php">Opdracht 4.1</a>
                         </li>
                         <li>
-                            <a href="Hoofdstuk4/opdracht4.2.php">Opdracht 4.2</a>
+                            <a href="Hoofdstuk%204/Opdracht%204.2/opdracht4.2.php">Opdracht 4.2</a>
                         </li>
                         <li>
-                            <a href="Hoofdstuk4/opdracht4.3.php">Opdracht 4.3</a>
+                            <a href="Hoofdstuk%204/Opdracht%204.3/opdracht4.3.php">Opdracht 4.3</a>
                         </li>
                         <li>
-                            <a href="Hoofdstuk4/opdracht4.4.php">Opdracht 4.4</a>
+                            <a href="Hoofdstuk%204/Opdracht%204.4/opdracht4.4.php">Opdracht 4.4</a>
                         </li>
                     </ul>
                 </li>
                 <li>Hoofdstuk 5
                     <ul>
                         <li>
-                            <a href="Hoofdstuk5/opdracht5.1.php">Opdracht 5.1</a>
+                            <a href="Hoofdstuk%205/Opdracht%205.1/opdracht5.1.php">Opdracht 5.1</a>
                         </li>
                         <li>
-                            <a href="Hoofdstuk5/opdracht5.2.php">Opdracht 5.2</a>
+                            <a href="Hoofdstuk%205/Opdracht%205.2/opdracht5.2.php">Opdracht 5.2</a>
                         </li>
                         <li>
-                            <a href="Hoofdstuk5/opdracht5.3.php">Opdracht 5.3</a>
+                            <a href="Hoofdstuk%205/Opdracht%205.3/opdracht5.3.php">Opdracht 5.3</a>
                         </li>
                         <li>
-                            <a href="Hoofdstuk5/opdracht5.4.php">Opdracht 5.4</a>
+                            <a href="Hoofdstuk%205/Opdracht%205.4/opdracht5.4.php">Opdracht 5.4</a>
                         </li>
                     </ul>
                 </li>
