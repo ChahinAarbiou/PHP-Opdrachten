@@ -1,0 +1,32 @@
+*
+{
+    margin: 0;
+}
+
+h1
+{
+    background-color: lightblue;
+    padding-left: 50%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+#menu
+{
+    background-color: burlywood;
+    width: 450px;
+    height: 630px;
+    padding: 2%;
+}
+
+#wrapper
+{
+    position: absolute;
+    left: 550px;
+    top: 75px;
+}
+
+li > a
+{
+    text-decoration: none;
+    color: black;
+}
