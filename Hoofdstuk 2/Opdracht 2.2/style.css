@@ -1,8 +1,9 @@
+/* Alles een margin 0 geven zodat er geen lege kantlijn is. */
 *
 {
     margin: 0;
 }
-
+/* Een koptekst 1 die lichtblauw wordt met een padding. */
 h1
 {
     background-color: lightblue;
@@ -10,6 +11,7 @@ h1
     padding-top: 1%;
     padding-bottom: 1%;
 }
+/* De menu de kleur bruin geven met een hoogte en breedte en een padding. */
 #menu
 {
     background-color: burlywood;
@@ -17,35 +19,35 @@ h1
     height: 630px;
     padding: 2%;
 }
-
+/* De wrapper waarin mijn uitwerkingen staan een absolute geven. Dit doe ik zodat dit rechts van de menu komt te staan.*/
 #wrapper
 {
     position: absolute;
     top: 75px;
     left: 550px;
 }
-
-#big > h2
+/* De links (a) in de menu geen onderlijn geven. En een kleur zwart. */
+li > a
 {
-    font-family: "Candara Light";
+    text-decoration: none;
+    color: black;
 }
-
+/* De aside waarin me uitwerking is in geheel een ander achtergrondkleur geven met een hoogte en breedte. */
 #big
 {
     background-color: rgb(238, 238, 238);
     width: 400px;
     padding: 25px;
 }
-
+/* De kopteksten 2 in de uitwerking een ander font geven. */
+#big > h2
+{
+    font-family: "Candara Light";
+}
+/* De teksten die met behulp van echo [PHP] een ander kleur geven. En een borderlijn met een padding. */
 .grey
 {
     background-color: rgb(245, 245, 245);
     border: 2px solid rgb(230, 230, 230);
     padding: 15px;
-}
-
-li > a
-{
-    text-decoration: none;
-    color: black;
 }
