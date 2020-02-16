@@ -1,3 +1,4 @@
+<!-- Het declareren van string variabelen die in de uitwerking tot stand wordt gebracht.-->
 <?php
 $text1 = "Hallo";
 $text2 = "een makkelijke taal";
