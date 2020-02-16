@@ -20,7 +20,7 @@ $text15 = "toch";
 *  User:       Chahin Aarbiou
 *  Date:       12-2-2020
 *  Time:       08:56
-*  File:       index.php
+*  File:       opdracht2.2.php
  * */
 ?>
 <!DOCTYPE html>
