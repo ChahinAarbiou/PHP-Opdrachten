@@ -1,8 +1,8 @@
 <?php
 /*
 *  User:       Chahin Aarbiou
-*  Date:       12-2-2020
-*  Time:       08:56
+*  Date:       16-2-2020
+*  Time:        16:31
 *  File:       opdracht2.1.php
  * */
 ?>
