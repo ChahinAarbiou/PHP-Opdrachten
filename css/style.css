@@ -1,8 +1,9 @@
+/* Alles een margin 0 geven zodat er geen lege kantlijn is. */
 *
 {
     margin: 0;
 }
-
+/* Een koptekst 1 die lichtblauw wordt met een padding. */
 h1
 {
     background-color: lightblue;
@@ -10,6 +11,7 @@ h1
     padding-top: 1%;
     padding-bottom: 1%;
 }
+/* De menu de kleur bruin geven met een hoogte en breedte en een padding. */
 #menu
 {
     background-color: burlywood;
@@ -17,14 +19,14 @@ h1
     height: 630px;
     padding: 2%;
 }
-
+/* De wrapper waarin mijn uitwerkingen staan een absolute geven. Dit doe ik zodat dit rechts van de menu komt te staan.*/
 #wrapper
 {
     position: absolute;
     left: 550px;
     top: 75px;
 }
-
+/* De links (a) in de menu geen onderlijn geven. En een kleur zwart. */
 li > a
 {
     text-decoration: none;
