@@ -23,26 +23,43 @@ $eersteEvenementJaar = 1909; // integer / number
 $aantalKeerInWinter = 1; // integer / number
 
 $verhaal = "De $evenement (Fries: $evenementFries) is een $kilometer kilometer lange $sport over $schaatsbaan 
- die wordt georganiseerd door de $organisator. $hoofdstadEvenment, de hoofdstad van $provincieEvenement,
- is start- en aankomstplaats. De $evenement is inmiddels $aantalEvenementVerreden maal verreden en werd voor het
- eerst in $eersteEvenementJaar gereden en wordt maximaal $aantalKeerInWinter keer per winter
- gehouden."; // De verhaal met de variabelen die bovenaan zijn aangemaakt.
+die wordt georganiseerd door de $organisator. $hoofdstadEvenment, de hoofdstad van $provincieEvenement,
+is start- en aankomstplaats. De $evenement is inmiddels $aantalEvenementVerreden maal verreden en werd voor het
+eerst in $eersteEvenementJaar gereden en wordt maximaal $aantalKeerInWinter keer per winter
+gehouden."; // De verhaal met de variabelen die bovenaan zijn aangemaakt.
+
+$verhaal2 = "De " . $evenement . " (Fries: " . $evenementFries . " is een " . $kilometer . " kilometer lange " . $sport .
+" over " . $schaatsbaan . " die wordt georganiseerd door de " . $organisator . ". " . $hoofdstadEvenment .
+", de hoofdstad van " . $provincieEvenement . ", is start- en aankomstplaats. De " . $evenement . " is inmiddels " .
+$aantalEvenementVerreden . " maal verreden en werd voor het eerst in " . $eersteEvenementJaar . " gereden en wordt maximaal " .
+$aantalKeerInWinter . " keer per winter gehouden."; // De verhaal met de variabelen die bovenaan zijn aangemaakt.
+
 ?>
 <main id="wrapper">
+    <!-- Koptekst 2   -->
     <h2>
         Uitwerkingen
     </h2>
+    <br>
+    <!-- Een paragraaf  -->
+    <p>
+        Taak 1
+    </p>
+    <br>
+    <!-- Met behulp PHP een variabel invoegen in een paragraaf. Die variabel is de verhaal die bovenaan is aangemaakt.  -->
     <?php
         echo "<p> $verhaal </p>";
     ?>
-
-
-
-
-
-
-
-
+    <br>
+    <!-- Een paragraaf  -->
+    <p>
+        Taak 2
+    </p>
+    <br>
+    <!-- Met behulp PHP een variabel invoegen in een paragraaf. Die variabel is de verhaal die bovenaan is aangemaakt.  -->
+    <?php
+    echo "<p> $verhaal2 </p>";
+    ?>
 </main>
 </body>
 </html>
