@@ -158,8 +158,8 @@ $text15 = "toch";
                 <aside class="grey">
                     <p>
                         <?php
-                        echo    $text1 . $text11 . $text12 . $text8 . " " . $text15 . " dat " . $text5 . " "
-                            . $text3 . $text10 . $text12 . $text7 . $text10 . " " . $text14 . $text9
+                        echo   "<p>" . $text1 . $text11 . $text12 . $text8 . " " . $text15 . " dat " . $text5 . " "
+                            . $text3 . $text10 . $text12 . $text7 . $text10 . " " . $text14 . $text9 . "</p>";
                         ?>
                     </p>
                 </aside>
