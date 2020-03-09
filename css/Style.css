@@ -16,7 +16,8 @@ h1
 {
     background-color: burlywood;
     width: 450px;
-    height: 630px;
+    height: 760px;
+    font-size: 140%;
     padding: 2%;
 }
 /* De wrapper waarin mijn uitwerkingen staan een absolute geven. Dit doe ik zodat dit rechts van de menu komt te staan.*/
@@ -25,6 +26,7 @@ h1
     position: absolute;
     left: 550px;
     top: 75px;
+    font-size: 130%;
 }
 /* De links (a) in de menu geen onderlijn geven. En een kleur zwart. */
 li > a
@@ -36,9 +38,11 @@ li > a
 footer
 {
     text-align: center;
-    background-color: rgba(255,0,0,0.50);
+    background-color: #ADD8E6;
     color: white;
-    position: fixed;
-    bottom: 0%;
     width: 100%;
+    top: 95.3%;
+    position: fixed;
+    height: 15px;
+    padding: 15px;
 }

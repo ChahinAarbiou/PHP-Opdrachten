@@ -37,8 +37,8 @@ include "../../includes/menu.php";
     <!-- Een paragraaf   -->
     <p>Taak 2</p>
     <?php
-        $countryName = "Nederland"; // Een string variabel
-        $currentAge = 17; // Een integer variabel
+        $countryName = "Zweden"; // Een string variabel
+        $currentAge = 20; // Een integer variabel
 
         // In de pagina een tekst invoegen met je waarde van de bovenstaande variabelen.
         echo "Je woont in " . $countryName . " en je bent " . $currentAge . " jaar oud. <br>";

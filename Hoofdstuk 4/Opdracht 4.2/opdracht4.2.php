@@ -8,6 +8,7 @@
 include "../../includes/header.php";
 include "../../includes/menu.php";
 include "../../includes/script.php";
+include "../../includes/footer.php";
 ?>
 <main id="wrapper">
     <!-- Koptekst 2   -->
@@ -18,8 +19,5 @@ include "../../includes/script.php";
     echo "<p>" . " Voor het vak " . "<span class='bold'>" . $courseName . "</span>" . " heb je " . "<span class='bold'>" . $teacherName . "</span>" . " als docent." . "</p>"
     ?>
 </main>
-<?php
-include "../../includes/footer.php";
-?>
 </body>
 </html>

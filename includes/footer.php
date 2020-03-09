@@ -23,6 +23,6 @@
 
     <?php
     include 'variabelen.php';
-    echo " bezoeker, " . "&copy " . $name . " " . $year;
+    echo " bezoeker, " . "&copy " . $name . " " . $year . " | <a href='../../index.php'>Menu</a>";
     ?>
 </footer>

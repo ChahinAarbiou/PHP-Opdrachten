@@ -21,7 +21,7 @@
 * L&B - Angela Lambregts
 */
 
-$courseName = "PHP";
+$courseName = "ASP";
 $teacherName = "Remco Evers";
 
 switch ($courseName)
