@@ -5,9 +5,8 @@
 *  Time:       16:17
 *  File:       index.php
 */
-include "../../includes/header.php";
-include "../../includes/menu.php";
-include "../../includes/footer.php";
+include "includes/header.php";
+include "includes/menu.php";
 ?>
 <main id="wrapper">
     <!-- Koptekst 2   -->
@@ -15,5 +14,8 @@ include "../../includes/footer.php";
         Uitwerkingen
     </h2>
 </main>
+<?php
+include "includes/footer.php";
+?>
 </body>
 </html>

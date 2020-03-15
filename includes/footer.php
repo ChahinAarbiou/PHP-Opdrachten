@@ -1,3 +1,7 @@
+<?php
+// $localhost = "http://".$_SERVER['SERVER_NAME'].dirname($_SERVER["REQUEST_URI"].'?').'/';
+$localhost = "http://localhost/PHP-Opdrachten";
+?>
 <footer>
     <?php
     date_default_timezone_set("Europe/Amsterdam");
@@ -23,6 +27,6 @@
 
     <?php
     include 'variabelen.php';
-    echo " bezoeker, " . "&copy " . $name . " " . $year . " | <a href='../../index.php'>Menu</a>";
+    echo " bezoeker, " . "&copy " . $name . " " . $year . "         |      " ."<a href='../../index.php'>Home</a>";
     ?>
 </footer>
