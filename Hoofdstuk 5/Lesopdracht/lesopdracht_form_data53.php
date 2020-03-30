@@ -22,7 +22,13 @@ require "lesopdracht_functions53.php";
         </td>
     </tr>
     <tr>
-        <td>Tussenvoegsel</td>
+        <td>
+            <?php
+            if (!empty($_POST["tussenvoegsel"])) {
+                echo "Tussenvoegsel";
+            }
+            ?>
+        </td>
         <td>
             <?php
                 if (isset($_POST["tussenvoegsel"])) {
