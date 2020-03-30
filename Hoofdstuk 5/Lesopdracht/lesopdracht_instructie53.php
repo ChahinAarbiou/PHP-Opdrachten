@@ -1,5 +1,11 @@
 <?php
 /*
+*  User:       Chahin Aarbiou
+*  Date:       30-3-2020
+*  Time:       15:40
+*  File:       lesopdracht_instructie53.php
+*/
+/*
  * Lesopdracht:
  * Tijd: 30 minuten
  * Omschrijving:
