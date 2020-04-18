@@ -20,19 +20,19 @@ $message = "&nbsp"; // Als deze leeg zou zijn dan zou de tabel beetje verplaatse
 $showLoginScreen = true;
 
 // Als er op de submit wordt geklikt voert die de if-statement uit.
-if (isset($_POST['submit']))
+if (isset($_POST["submit"]))
 {
     // In array login de key (username) en value (password) bij heel de array uitvoeren
     foreach ($login as $username => $password)
     {
         // Als de bezoeker een gebruiksnaam/wachtwoord invult hetzelfde als de correcte gebruiksnaam/wachtwoord voert die de if-statement.
-        if ($_POST['username'] == $username && $_POST['password'] == $password)
+        if ($_POST["username"] == $username && $_POST["password"] == $password)
         {
             // Zet showLoginScreen op false dan laat die de openingstijden en adres zien.
             $showLoginScreen = false;
         }
         // Als de bezoeker niets invult bij username en password dan voert die de onderstaande elseif-statement.
-        elseif (empty($_POST['username']) && empty($_POST['password']))
+        elseif (empty($_POST["username"]) && empty($_POST["password"]))
         {
             // Zet showLoginScreen op false dan laat die de openingstijden en adres zien.
             $showLoginScreen = false;
@@ -41,7 +41,7 @@ if (isset($_POST['submit']))
         else
         {
             // Zet in tabel een foutmelding  als "Foutieve gebruiksnaam en / of wachtwoord".
-            $message = 'Foutieve gebruiksnaam en / of wachtwoord';
+            $message = "Foutieve gebruiksnaam en / of wachtwoord";
         }
     }
 }
