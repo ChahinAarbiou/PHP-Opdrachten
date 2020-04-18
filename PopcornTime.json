@@ -2,7 +2,7 @@
   "apps": [
     {
       "beta": false,
-      "bundleIdentifier": "com.PopcornTime",
+      "bundleIdentifier": "com.popcorntimetv.popcorntime.ios",
       "developerName": "Chahin Aarbiou",
       "downloadURL": "https://github.com/PopcornTimeTV/PopcornTimeTV/releases/download/3.2.35/PopcornTimeiOS.ipa",
       "iconURL": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png",
