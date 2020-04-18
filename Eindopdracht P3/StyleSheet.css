@@ -1,0 +1,98 @@
+body
+{
+    zoom: 130%;
+}
+
+#login
+{
+    position: absolute;
+    left: 33.5%;
+    top: 10%;
+}
+
+h1
+{
+    text-align: center;
+}
+
+#red
+{
+    color: red;
+    font-size: 85%;
+}
+
+input
+{
+    border: 1px solid black;
+}
+
+input[type=submit]
+{
+    width: 100px;
+}
+
+
+#submit
+{
+    position: absolute;
+    top: 130px;
+    left: 140px;
+}
+
+h3
+{
+    text-align: center;
+}
+legend
+{
+    text-align: center;
+}
+
+fieldset > p
+{
+    position: relative;
+    top: -12%;
+    left: 38%;
+}
+
+fieldset+fieldset > p
+{
+    position: relative;
+    top: -3%;
+    left: 27%;
+}
+
+fieldset
+{
+    width: 300px;
+    left: 21%;
+    height: 100px;
+    position: absolute;
+}
+
+fieldset+fieldset
+{
+    position: absolute;
+    left: 51%;
+    top: 20.5%;
+}
+
+fieldset + p
+{
+    position: relative;
+    text-align: center;
+    margin-top: 13.5%;
+}
+
+footer
+{
+    text-align: center;
+    background-color: #F0F0F0;
+    color: black;
+    width: 96%;
+    top: 92.3%;
+    font-size: 85%;
+    position: fixed;
+    height: 13px;
+    padding: 15px;
+}
