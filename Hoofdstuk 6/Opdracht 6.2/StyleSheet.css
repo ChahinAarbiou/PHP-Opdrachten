@@ -1,0 +1,36 @@
+img
+{
+    height: 180px;
+    width: 200px;
+}
+
+#right
+{
+    position: absolute;
+    left: 170%;
+    top: 7%;
+}
+
+#right2
+{
+    position: absolute;
+    left: 300%;
+    top: 10%;
+    width: 300px;
+}
+
+.float
+{
+    padding: 10%;
+}
+input[type=radio]
+{
+    zoom: 180%;
+}
+
+.paragraph
+{
+    font-size: 120%;
+    float: right;
+    margin-right: 50%;
+}
